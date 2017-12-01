@@ -42,12 +42,12 @@ P2PWEB， 下一代的互联网 。
     而p2pweb-dns，是 域名文本-git地址列表 的映射。
     实现了p2pweb-dns后, 用户可以订阅站点（成为站点的镜像，其实也就是git的一个fork，通过数字签名来校验是否是原作者），从而实现网站的分布式。
     
-1. **p2pweb-prxoy : 分布式透明代理**
-1. **p2pweb-msg : 分布式消息推送**
-1. **p2pweb-sns : 分布式好友关系**
-1. **p2pweb-coin : 分布式货币支付**
-1. **p2pweb-file : 分布式文件存储**
-1. **p2pweb-media : 分布式媒体点播**
+1. **p2pweb-proxy : 分布式中间人**
+1. **p2pweb-msg : 分布式消息流**
+1. **p2pweb-sns : 分布式好友表**
+1. **p2pweb-ppc : 分布式信用点**
+1. **p2pweb-dir : 分布式文件夹**
+1. **p2pweb-dvd : 分布式在线看**
 
 
 
