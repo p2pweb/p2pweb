@@ -1,0 +1,28 @@
+{
+    "styles": {
+        "website": "./styles/page.css"
+    },
+    "language" : "zh-hans",
+    "plugins": [
+                        "editlink",
+                        "anchors",
+                        "expandable-chapters-small",
+                        "prism",
+                        "lb2br",
+                        "-highlight",
+                        "sitemap-general"
+     ],
+    "pluginsConfig": {
+        "editlink": {
+            "base": "https://www.gitbook.com/book/git-www/gitbox/edit#/edit/master",
+            "label": ""
+        },
+        "sitemap-general": {
+            "prefix": "https://git-www.gitbooks.io/gitbox"
+        }
+    },
+    "links" : {
+        "sidebar" : {
+        }
+    }
+}
