@@ -48,6 +48,7 @@ P2PWEB， 下一代的互联网 。
 1. **p2pweb-sns : 分布式好友系统**
 1. **p2pweb-coin : 分布式货币系统**
 1. **p2pweb-file : 分布式文件系统**
+1. **p2pweb-media : 分布式点播系统**
 
 
 
