@@ -20,4 +20,7 @@ https://steemit.com/cn/@peterchen145/iota
 
 每个人可以follow其他人
 
+成为反向代理可以获得 贡献点
+
+
 
